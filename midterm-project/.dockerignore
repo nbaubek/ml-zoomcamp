@@ -1,0 +1,9 @@
+.venv
+.git
+__pycache__
+.pytest_cache
+notebook.ipynb
+tests
+data
+project-info
+assets
